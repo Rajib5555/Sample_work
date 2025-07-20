@@ -98,5 +98,5 @@ Below are the modules and custom tasks I developed in Puppet to automate and str
 
 ### Project: DR Automation
 - Automated disaster recovery (DR) exercises using Ansible.
-- Covered automation for Linux, Windows, AIX servers, SQL, Oracle DB, Infoblox, FS, RPA, and Superna API.
+- Covered automation for Linux, Windows, AIX servers, SQL, Oracle DB, Infoblox, F5, RPA, and Superna API.
 - Developed over 100 Ansible playbooks to automate DR processes for 8 core applications.
